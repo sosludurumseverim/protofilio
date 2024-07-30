@@ -1,0 +1,48 @@
+<!doctype html><html lang=en><head><title>Page not found - Fathom Analytics</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=apple-touch-icon sizes=180x180 href=https://usefathom.com/assets/src/apple-touch-icon.png><link rel=icon href=https://usefathom.com/assets/src/favicon-dark.svg media="(prefers-color-scheme: dark)" id=dark-icon><link rel=icon href=https://usefathom.com/assets/src/favicon-light.svg media="(prefers-color-scheme: light)" id=light-icon><link rel=mask-icon href=https://usefathom.com/assets/src/favicon.svg color=#947fff><meta name=robots content=noindex,follow,noarchive,nosnippet><meta name=description content=""><link rel=stylesheet href=/assets/build/main.css><link rel=preload href="/assets/fonts/fa-l.woff2?v=v4" as=font type=font/woff2 crossorigin><link rel=preload href="/assets/fonts/sw.woff2?v=v4" as=font type=font/woff2 crossorigin><link rel=preload href="/assets/fonts/jb.woff2?v=v4" as=font type=font/woff2 crossorigin><script src=https://quick-esteemed.usefathom.com/ data-site=BIABKBRK defer=defer></script><style>.dance-party {
+				animation: change_colors 10s infinite;
+				color: white;
+				line-height: 1;
+				font-weight: 710;
+				font-size: 16rem;
+				display: inline;
+				text-shadow:
+					0 .005em 0 rgba(0, 0, 0, .2),
+					0 .005em 0 currentColor,
+
+					0 .01em 0 rgba(0, 0, 0, .25),
+					0 .01em 0 currentColor,
+
+					0 .015em 0 rgba(0, 0, 0, .3),
+					0 .015em 0 currentColor,
+
+					0 .02em 0 rgba(0, 0, 0, .35),
+					0 .02em 0 currentColor,
+
+					0 .025em 0 rgba(0, 0, 0, .4),
+					0 .025em 0 currentColor,
+
+					0 .03em .005em rgba(0, 0, 0, .1),
+					0 0 .025em rgba(0, 0, 0, .1),
+					0 .005em .015em rgba(0, 0, 0, .3),
+					0 .015em .025em rgba(0, 0, 0, .2),
+					0 .025em .05em rgba(0, 0, 0, .25),
+					0 .05em .05em rgba(0, 0, 0, .2),
+					0 .1em .1em rgba(0, 0, 0, .15);
+			}
+
+			@keyframes change_colors {
+				0% { color: hsla(250, 100%, 75%, 1); }
+				25% { color: hsla(140, 60%, 50%, 1); }
+				50% { color: hsla(200, 90%, 60%, 1); }
+				75% { color: hsla(180, 70%, 50%, 1); }
+				100% { color: hsla(250, 100%, 75%, 1); }
+			}
+
+			@media screen and (max-width: 42rem) {
+				.dance-party {
+					font-size: 8rem;
+				}
+			}</style></head><body class=site><fa-rapper class="rap-full rap-centered"><fa-rapper class=rap-sm><article class=body><div class=dance-party>404</div><p>Sorry, the page you're looking for does not exist on the Fathom Analytics website. Maybe it moved?</p><p><fa-grid class="grid-min-left grid-centered t-space-3x gap-md content-space"><fa-cell><a href=/ ><picture class="fathom-logo b-space-none"><source srcset=/assets/src/brand/fathom-analytics-dark.svg media="(prefers-color-scheme: dark)"><img src=/assets/src/brand/fathom-analytics.svg alt="Fathom Analytics" class=b-space-none></picture></a></fa-cell><fa-cell class="right mobile-right"><a href=/sitemap class="badge-button alt">Sitemap</a></fa-cell></fa-grid></p></article></fa-rapper><img src=/assets/src/brand/fathom-luna.svg alt="Page not found" class="fathom-cat footer-cat"></fa-rapper></body><script>document.addEventListener('DOMContentLoaded', function() {
+    var path = window.location.pathname;
+    fathom.trackEvent('404: ' + path);
+  });</script></html>

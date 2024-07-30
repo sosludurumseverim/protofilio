@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="120" viewBox="0 0 320 120">
+  <defs>
+    <clipPath id="clip-l_9">
+      <rect width="320" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="l_9" data-name="l – 9" clip-path="url(#clip-l_9)">
+    <g id="Group_956" data-name="Group 956" transform="translate(61.97 23.513)">
+      <path id="Path_5624" data-name="Path 5624" d="M45.332,20.531V40.277h8.324V20.531h6.6V14.188H38.764v6.343h6.572Zm19.085,8.981c0,7.448,4.31,11.241,11.928,11.241h.014c7.3,0,11.974-3.466,11.974-11.311V14.188H80.007V29.147c0,3.423-.732,5.112-3.648,5.112-2.963,0-3.693-1.685-3.693-5.067V14.184H64.417V29.512ZM94.112,40.276V14.188h10.4c7.522,0,10.733,3.368,10.733,8.939v.14c0,5.446-3.621,8.5-10.371,8.5h-2.525v8.5Zm9.966-14.048h-1.716V20.362h1.751c2.161,0,3.285.8,3.285,2.807v.14c0,1.936-1.137,2.919-3.326,2.919Zm15.464,14.048V14.188h8.28v19.7h9.5v6.385H119.539Zm22.452-26.089V40.276h19.127V33.932H150.247V30.02h8.167v-5.8h-8.167V20.53h10.286V14.188h-18.54Z" transform="translate(34.939 10.245)" fill="hsla(140, 3%, 55%, 1)" fill-rule="evenodd"/>
+      <path id="Path_5625" data-name="Path 5625" d="M7.6,20.227,41.281,9V67.94L7.6,56.714Z" transform="translate(3.627 5.033)" fill="hsla(140, 3%, 55%, 1)" opacity="0.5"/>
+      <path id="Path_5626" data-name="Path 5626" d="M2,13.227,35.681,2V60.94L2,49.714Z" transform="translate(-2 -2)" fill="hsla(140, 3%, 55%, 1)"/>
+    </g>
+  </g>
+</svg>
